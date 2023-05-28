@@ -1,0 +1,15 @@
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\bin\Debug\net6.0\FootballTask.exe
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\bin\Debug\net6.0\FootballTask.deps.json
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\bin\Debug\net6.0\FootballTask.runtimeconfig.json
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\bin\Debug\net6.0\FootballTask.dll
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\bin\Debug\net6.0\FootballTask.pdb
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.csproj.AssemblyReference.cache
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.AssemblyInfoInputs.cache
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.AssemblyInfo.cs
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.csproj.CoreCompileInputs.cache
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.dll
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\refint\FootballTask.dll
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.pdb
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\FootballTask.genruntimeconfig.cache
+D:\kursova\FootballTask-main\FootballTask-main\FootballTask\FootballTask\obj\Debug\net6.0\ref\FootballTask.dll
